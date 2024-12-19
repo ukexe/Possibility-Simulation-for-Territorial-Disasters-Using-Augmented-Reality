@@ -8,6 +8,7 @@ An augmented reality application for simulating and visualizing weather possibil
 - Interactive 3D environmental simulations
 - Weather pattern analysis and prediction
 - Multi-platform support (Web, Mobile)
+![haha](https://github.com/user-attachments/assets/c400f1a2-a5de-4f4c-b4a4-ebd19a16900b)
 
 ## Project Structure
 
